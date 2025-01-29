@@ -1,0 +1,2 @@
+asegurando un commit en remoto
+agregando linea2
